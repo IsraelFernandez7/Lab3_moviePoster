@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="prime">#FF416AD3</color>
+    <color name="accent">#FDA14F</color>
+    <color name="textIcons">#FFFFFFFF</color>
+    <color name="textPrime">#FDA14F</color>
+    <color name="colorRating">#C9C9D1</color>
+    <color name="background">#EEEEEE</color>
+
+
+
+
+
+
+
+</resources>

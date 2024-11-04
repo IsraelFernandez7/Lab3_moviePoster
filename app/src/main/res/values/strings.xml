@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">moviePoster</string>
+    <string name="poster">poster</string>
+    <string name="Poster" />
+    <string name="poster1021">Poster1021</string>
+    <string name="add_to_wishlist" />
+</resources>
